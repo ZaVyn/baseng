@@ -1,6 +1,6 @@
 # project_if22c
 
-A new Flutter project.
+Ini repo hanya untuk membagi source code
 
 ## Getting Started
 
